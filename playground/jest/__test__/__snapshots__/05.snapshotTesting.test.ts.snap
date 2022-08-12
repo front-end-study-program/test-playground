@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`快照测试 1`] = `"张三"`;
+
+exports[`更新快照 1`] = `"李四1"`;
